@@ -20,7 +20,7 @@
 #
 
 default['couchbase']['server']['edition'] = "community"
-default['couchbase']['server']['version'] = "3.0.0"
+default['couchbase']['server']['version'] = "3.0.1"
 
 case node['platform']
 when "debian"
