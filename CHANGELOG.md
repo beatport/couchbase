@@ -1,3 +1,7 @@
+## v1.4.0 (2016-07-25)
+
+- Bumped minimum Couchbase version to 3.1.3.
+
 ## v1.3.2 (2015-07-28)
 
 - Bumped minimum Couchbase version to 3.0.1.
